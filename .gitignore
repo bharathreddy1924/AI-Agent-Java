@@ -1,0 +1,23 @@
+target/
+dependency-reduced-pom.xml
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Environment variables & secrets
+.env
+*.local
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
